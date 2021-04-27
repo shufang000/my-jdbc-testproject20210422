@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="my-jdbc-testproject20210422" />
         <module name="first-project" />
       </profile>
     </annotationProcessing>
